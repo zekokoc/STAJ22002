@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|c:\\users\\dell\\source\\repos\\corekitapl\u0131k\\corekitapl\u0131k\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|solutionrelative:corekitapl\u0131k\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|c:\\users\\dell\\source\\repos\\corekitapl\u0131k\\corekitapl\u0131k\\views\\shared\\components\\yenikitaplar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|solutionrelative:corekitapl\u0131k\\views\\shared\\components\\yenikitaplar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|c:\\users\\dell\\source\\repos\\corekitapl\u0131k\\corekitapl\u0131k\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|solutionrelative:corekitapl\u0131k\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|c:\\users\\dell\\source\\repos\\corekitapl\u0131k\\corekitapl\u0131k\\viewcomponents\\yenikitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|solutionrelative:corekitapl\u0131k\\viewcomponents\\yenikitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|c:\\users\\dell\\source\\repos\\corekitapl\u0131k\\corekitapl\u0131k\\views\\home\\statiktema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|solutionrelative:corekitapl\u0131k\\views\\home\\statiktema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|c:\\users\\dell\\source\\repos\\corekitapl\u0131k\\corekitapl\u0131k\\views\\home\\_partialpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2566C63D-FB48-46FE-B01B-536EBA695657}|CoreKitapl\u0131k\\CoreKitapl\u0131k.csproj|solutionrelative:corekitapl\u0131k\\views\\home\\_partialpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatikTema.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Home\\StatikTema.cshtml",
+              "RelativeDocumentMoniker": "CoreKitapl\u0131k\\Views\\Home\\StatikTema.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Home\\StatikTema.cshtml",
+              "RelativeToolTip": "CoreKitapl\u0131k\\Views\\Home\\StatikTema.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:44:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreKitapl\u0131k\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "CoreKitapl\u0131k\\Controllers\\HomeController.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:44:26.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Shared\\Components\\YeniKitaplar\\Default.cshtml",
+              "RelativeDocumentMoniker": "CoreKitapl\u0131k\\Views\\Shared\\Components\\YeniKitaplar\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Shared\\Components\\YeniKitaplar\\Default.cshtml",
+              "RelativeToolTip": "CoreKitapl\u0131k\\Views\\Shared\\Components\\YeniKitaplar\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:28:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YeniKitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\ViewComponents\\YeniKitaplar.cs",
+              "RelativeDocumentMoniker": "CoreKitapl\u0131k\\ViewComponents\\YeniKitaplar.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\ViewComponents\\YeniKitaplar.cs",
+              "RelativeToolTip": "CoreKitapl\u0131k\\ViewComponents\\YeniKitaplar.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:18:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreKitapl\u0131k\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "CoreKitapl\u0131k\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:09:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_PartialPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Home\\_PartialPage.cshtml",
+              "RelativeDocumentMoniker": "CoreKitapl\u0131k\\Views\\Home\\_PartialPage.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CoreKitapl\u0131k\\CoreKitapl\u0131k\\Views\\Home\\_PartialPage.cshtml",
+              "RelativeToolTip": "CoreKitapl\u0131k\\Views\\Home\\_PartialPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:08:35.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
